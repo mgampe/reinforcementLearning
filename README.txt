@@ -1,4 +1,3 @@
-# CFB
 # Matthew Gampe
 # mgampe3
 # 11/27/2022
@@ -8,7 +7,7 @@ Reinforcement Learning Experiements with mdphiive
 
 This document outlines the set up for the notebooks in this repository.
 
-Data and code can be found online at https://github.com/mgampe/unsupervisedLearning
+Data and code can be found online at https://github.com/mgampe/reinforcementLearning
 
 Please visit the site to download all necessary data and code. To run the code, place the data files in the same directory as the code and the run the script with the appropriate python interpreter. This was tested to run in VSCode and jupyter notebook.
 
